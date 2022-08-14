@@ -3,7 +3,7 @@ Free keyless roblox exploit that uses the <a href="https://wearedevs.net/d/Explo
 
 <img src="https://i.imgur.com/wsBTDSp.png">
 
-A fairly simple exploit with no keys, ads, or annoying bullshit
+A simple exploit with no keys, ads, or annoying bullshit
 
 <img src="https://i.imgur.com/HRjuabU.png">
 
