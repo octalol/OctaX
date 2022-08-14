@@ -1,5 +1,5 @@
 # OctaX
-Free keyless roblox exploit, it uses the <a href="https://wearedevs.net/d/Exploit%20API">WeAreDevs API</a>
+Free keyless roblox exploit, which uses the <a href="https://wearedevs.net/d/Exploit%20API">WeAreDevs API</a>
 
 <img src="https://i.imgur.com/wsBTDSp.png">
 
